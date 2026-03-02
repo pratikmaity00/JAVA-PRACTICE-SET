@@ -5,6 +5,6 @@ public class SumOfNatural {
         for (int i = 1; i<=n; i++) {
             sum += i;
         }
-        System.out.println("Sum of First N Natural Number is : " + sum);
+        System.out.println("Sum of First N Natural Number is :  " + sum);
     }
 }
